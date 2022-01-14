@@ -1,0 +1,772 @@
+{
+    "plugins": [
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.8.0",
+            "Latest": "4.8.1",
+            "Date": "08/Gennaio/2022"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.8.0",
+            "Latest": "4.7.9",
+            "Date": "04/Gennaio/2022"
+        },
+        {
+            "Plugin": "Addons for Elementor - WidgetKit",
+            "Previous": "2.3.14",
+            "Latest": "2.3.15",
+            "Date": "03/Gennaio/2022"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.7",
+            "Latest": "4.7.9",
+            "Date": "28/Dicembre/2021"
+        },
+        {
+            "Plugin": "Essential Addons for Elementor",
+            "Previous": "4.9.7",
+            "Latest": "5.0.0",
+            "Date": "28/Dicembre/2021"
+        },
+        {
+            "Plugin": "Elementor",
+            "Previous": "3.5.1",
+            "Latest": "3.5.3",
+            "Date": "28/Dicembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.5",
+            "Latest": "4.7.6",
+            "Date": "18/Dicembre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.7.1",
+            "Latest": "17.8",
+            "Date": "14/Dicembre/2021"
+        },
+        {
+            "Plugin": "WordPress REST API Authentication",
+            "Previous": "1.6.5",
+            "Latest": "1.6.6",
+            "Date": "14/Dicembre/2021"
+        },
+        {
+            "Plugin": "Essential Addons for Elementor",
+            "Previous": "4.9.6",
+            "Latest": "4.9.7",
+            "Date": "14/Dicembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.4",
+            "Latest": "4.7.5",
+            "Date": "14/Dicembre/2021"
+        },
+        {
+            "Plugin": "Elementor",
+            "Previous": "3.4.8",
+            "Latest": "3.5.0",
+            "Date": "14/Dicembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.3",
+            "Latest": "4.7.4",
+            "Date": "10/Dicembre/2021"
+        },
+        {
+            "Plugin": "White Label CMS",
+            "Previous": "2.2.5",
+            "Latest": "2.2.6",
+            "Date": "09/Dicembre/2021"
+        },
+        {
+            "Plugin": "W3 Total Cache",
+            "Previous": "2.2.0",
+            "Latest": "2.2.1",
+            "Date": "09/Dicembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.2",
+            "Latest": "4.7.3",
+            "Date": "09/Dicembre/2021"
+        },
+        {
+            "Plugin": "Cookie Notice & Compliance for GDPR / CCPA",
+            "Previous": "2.2.0",
+            "Latest": "2.2.1",
+            "Date": "09/Dicembre/2021"
+        },
+        {
+            "Plugin": "Simple Custom CSS and JS",
+            "Previous": "3.38",
+            "Latest": "3.38.1",
+            "Date": "03/Dicembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.1",
+            "Latest": "4.7.2",
+            "Date": "03/Dicembre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.7",
+            "Latest": "17.7.1",
+            "Date": "02/Dicembre/2021"
+        },
+        {
+            "Plugin": "White Label CMS",
+            "Previous": "2.2.4",
+            "Latest": "2.2.5",
+            "Date": "02/Dicembre/2021"
+        },
+        {
+            "Theme": "OceanWP",
+            "Previous": "3.1.1",
+            "Latest": "3.1.2",
+            "Date": "02/Dicembre/2021"
+        },
+        {
+            "Plugin": "Ocean Extra",
+            "Previous": "1.9.1",
+            "Latest": "1.9.2",
+            "Date": "02/Dicembre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.6",
+            "Latest": "17.7",
+            "Date": "30/Novembre/2021"
+        },
+        {
+            "Plugin": "Elementor Addon Elements",
+            "Previous": "1.11.11",
+            "Latest": "1.11.12",
+            "Date": "29/Novembre/2021"
+        },
+        {
+            "Plugin": "Contact Form 7",
+            "Previous": "5.5.2",
+            "Latest": "5.5.3",
+            "Date": "28/Novembre/2021"
+        },
+        {
+            "Plugin": "Cookie Notice & Compliance for GDPR / CCPA",
+            "Previous": "2.1.5",
+            "Latest": "2.2.0",
+            "Date": "27/Novembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.0",
+            "Latest": "4.7.1",
+            "Date": "26/Novembre/2021"
+        },
+        {
+            "Plugin": "Hide My WP Ghost Lite",
+            "Previous": "4.1.09",
+            "Latest": "4.1.10",
+            "Date": "25/Novembre/2021"
+        },
+        {
+            "Plugin": "WP Crontrol",
+            "Previous": "1.11.0",
+            "Latest": "1.12.0",
+            "Date": "24/Novembre/2021"
+        },
+        {
+            "Plugin": "W3 Total Cache",
+            "Previous": "2.1.9",
+            "Latest": "2.2.0",
+            "Date": "24/Novembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.6.1",
+            "Latest": "4.7.0",
+            "Date": "24/Novembre/2021"
+        },
+        {
+            "Plugin": "Ocean Extra",
+            "Previous": "1.9.0",
+            "Latest": "1.9.1",
+            "Date": "24/Novembre/2021"
+        },
+        {
+            "Theme": "OceanWP",
+            "Previous": "3.1.0",
+            "Latest": "3.1.1",
+            "Date": "19/Novembre/2021"
+        },
+        {
+            "Plugin": "WordPress REST API Authentication",
+            "Previous": "1.6.4",
+            "Latest": "1.6.5",
+            "Date": "17/Novembre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.5",
+            "Latest": "17.6",
+            "Date": "16/Novembre/2021"
+        },
+        {
+            "Plugin": "Elementor",
+            "Previous": "3.4.7",
+            "Latest": "3.4.8",
+            "Date": "16/Novembre/2021"
+        },
+        {
+            "Theme": "OceanWP",
+            "Previous": "3.0.7",
+            "Latest": "3.1.0",
+            "Date": "10/Novembre/2021"
+        },
+        {
+            "Plugin": "Ocean Extra",
+            "Previous": "1.8.3",
+            "Latest": "1.9.0",
+            "Date": "10/Novembre/2021"
+        },
+        {
+            "Plugin": "Simple Custom CSS and JS",
+            "Previous": "3.37",
+            "Latest": "3.38",
+            "Date": "10/Novembre/2021"
+        },
+        {
+            "Plugin": "All-in-One WP Migration",
+            "Previous": "7.49",
+            "Latest": "7.50",
+            "Date": "09/Novembre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.4",
+            "Latest": "17.5",
+            "Date": "03/Novembre/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Previous": "5.12",
+            "Latest": "5.13",
+            "Date": "03/Novembre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.5.9",
+            "Latest": "4.6.0",
+            "Date": "03/Novembre/2021"
+        },
+        {
+            "Plugin": "Jetpack",
+            "Previous": "10.2.1",
+            "Latest": "10.2.2",
+            "Date": "03/Novembre/2021"
+        },
+        {
+            "Plugin": "Essential Addons for Elementor",
+            "Previous": "4.9.5",
+            "Latest": "4.9.6",
+            "Date": "01/Novembre/2021"
+        },
+        {
+            "Plugin": "Elementor",
+            "Previous": "4.9.4",
+            "Latest": "4.9.5",
+            "Date": "27/Ottobre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.5.8",
+            "Latest": "4.5.8",
+            "Date": "26/Ottobre/2021"
+        },
+        {
+            "Plugin": "Contact Form 7",
+            "Previous": "5.5.1",
+            "Latest": "5.5.2",
+            "Date": "25/Ottobre/2021"
+        },
+        {
+            "Plugin": "Ocean Extra",
+            "Previous": "1.8.2",
+            "Latest": "1.8.3",
+            "Date": "24/Ottobre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.3",
+            "Latest": "17.4",
+            "Date": "20/Ottobre/2021"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.5.7",
+            "Latest": "4.5.8",
+            "Date": "20/Ottobre/2021"
+        },
+        {
+            "Plugin": "Jetpack",
+            "Previous": "10.2.0",
+            "Latest": "10.2.1",
+            "Date": "20/Ottobre/2021"
+        },
+        {
+            "Plugin": "Elementor",
+            "Previous": "3.4.5",
+            "Latest": "3.4.6",
+            "Date": "20/Ottobre/2021"
+        },
+        {
+            "Plugin": "All-in-One WP Migration",
+            "Previous": "7.48",
+            "Latest": "7.49",
+            "Date": "20/Ottobre/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Previous": "5.1.1",
+            "Latest": "5.1.2",
+            "Date": "14/Ottobre/2021"
+        },
+        {
+            "Plugin": "Ocean Extra",
+            "Previous": "1.8.1",
+            "Latest": "1.8.2",
+            "Date": "14/Ottobre/2021"
+        },
+        {
+            "Plugin": "Essential Addons for Elementor",
+            "Previous": "4.9.3",
+            "Latest": "4.9.4",
+            "Date": "14/Ottobre/2021"
+        },
+        {
+            "Plugin": "Elementor",
+            "Previous": "3.4.4",
+            "Latest": "3.4.5",
+            "Date": "14/Ottobre/2021"
+        },
+        {
+            "Plugin": "Contact Form 7",
+            "Previous": "5.4.2",
+            "Latest": "5.5.1",
+            "Date": "14/Ottobre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "16.2",
+            "Latest": "16.3",
+            "Date": "19/Maggio/2021"
+        },
+        {
+            "Plugin": "UpdraftPlus - Backup/Restore",
+            "Previous": "1.16.55",
+            "Latest": "1.16.56",
+            "Date": "30/Aprile/2021"
+        },
+        {
+            "Plugin": "UpdraftPlus - Backup/Restore",
+            "Previous": "1.16.53",
+            "Latest": "1.16.55",
+            "Date": "29/Aprile/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "16.1.1",
+            "Latest": "16.2",
+            "Date": "28/Aprile/2021"
+        },
+        {
+            "Plugin": "WP Migrate DB",
+            "Previous": "1.0.17",
+            "Latest": "2.0",
+            "Date": "27/Aprile/2021"
+        },
+        {
+            "Plugin": "Cookie Notice & Compliance for GDPR / CCPA",
+            "Previous": "2.0.3",
+            "Latest": "2.0.4",
+            "Date": "26/Aprile/2021"
+        },
+        {
+            "Plugin": "Insert Headers and Footers",
+            "Previous": "1.5.0 ",
+            "Latest": "1.6.0",
+            "Date": "26/Aprile/2021"
+        },
+        {
+            "Plugin": "UpdraftPlus - Backup/Restore",
+            "Previous": "1.16.55",
+            "Latest": "1.16.56",
+            "Date": "30/Aprile/2021"
+        },
+        {
+            "Plugin": "UpdraftPlus - Backup/Restore",
+            "Previous": "1.16.53",
+            "Latest": "1.16.55",
+            "Date": "29/Aprile/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "16.1.1",
+            "Latest": "16.2",
+            "Date": "28/Aprile/2021"
+        },
+        {
+            "Plugin": "WP Migrate DB",
+            "Previous": "1.0.17",
+            "Latest": "2.0",
+            "Date": "27/Aprile/2021"
+        },
+        {
+            "Plugin": "Cookie Notice & Compliance for GDPR / CCPA",
+            "Previous": "2.0.3",
+            "Latest": "2.0.4",
+            "Date": "26/Aprile/2021"
+        },
+        {
+            "Plugin": "Insert Headers and Footers",
+            "Previous": "1.5.0",
+            "Latest": "1.6.0",
+            "Date": "26/Aprile/2021"
+        },
+        {
+            "Plugin": "Hide My WP Ghost Lite",
+            "Version": "4.1.05 -> 4.1.06",
+            "Date": "26/Aprile/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "16.1 -> 16.1.1",
+            "Date": "12/Aprile/2021"
+        },
+        {
+            "Plugin": "Google Tag Manager for Wordpress",
+            "Version": "1.12.1 -> 1.12.2",
+            "Date": "10/Aprile/2021"
+        },
+        {
+            "Plugin": "Google Tag Manager for Wordpress",
+            "Version": "1.11.6 -> 1.12.1",
+            "Date": "09/Aprile/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "16.1 -> 16.1.1",
+            "Date": "06/Aprile/2021"
+        },
+        {
+            "Plugin": "EWWW Image Optimizer",
+            "Version": "6.1.0 -> 6.1.1",
+            "Date": "06/Aprile/2021"
+        },
+        {
+            "Plugin": "Disable Comments",
+            "Version": "2.1.0 -> 2.1.1",
+            "Date": "06/Aprile/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "16.0.2 -> 16.1",
+            "Date": "06/Aprile/2021"
+        },
+        {
+            "Plugin": "UpdraftPlus - Backup/Restore",
+            "Version": "1.16.51 -> 1.16.53",
+            "Date": "04/Aprile/2021"
+        },
+        {
+            "Plugin": "EWWW Image Optimizer",
+            "Version": "6.0.3 -> 6.1.0",
+            "Date": "02/Aprile/2021"
+        },
+        {
+            "Plugin": "UpdraftPlus - Backup/Restore",
+            "Version": "1.16.50 -> 1.16.51",
+            "Date": "01/Aprile/2021"
+        },
+        {
+            "Plugin": "Bookly",
+            "Version": "19.5 -> 19.6.1",
+            "Date": "31/Marzo/2021"
+        },
+        {
+            "Plugin": "Wordfence Security",
+            "Version": "7.4.14 -> 7.5.2",
+            "Date": "25/Marzo/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.12 -> 4.0.13",
+            "Date": "25/Marzo/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.11 -> 4.0.12",
+            "Date": "24/Marzo/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "16.0.1 -> 16.0.2",
+            "Date": "18/Marzo/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "15.9.2 -> 16.0.1",
+            "Date": "17/Marzo/2021"
+        },
+        {
+            "Plugin": "UpdraftPlus - Backup/Restore",
+            "Version": "1.16.49 -> 1.16.50",
+            "Date": "17/Marzo/2021"
+        },
+        {
+            "Plugin": "Bookly",
+            "Version": "19.4 -> 19.5",
+            "Date": "17/Marzo/2021"
+        },
+        {
+            "Plugin": "Hummingbird",
+            "Version": "2.7.0 -> 2.7.2",
+            "Date": "16/Marzo/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "15.9.1 -> 15.9.2",
+            "Date": "11/Marzo/2021"
+        },
+        {
+            "Plugin": "WP Smart Preloader",
+            "Version": "1.13 -> 1.14",
+            "Date": "11/Marzo/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.10 -> 4.0.11",
+            "Date": "09/Marzo/2021"
+        },
+        {
+            "Plugin": "BackUpWordPress",
+            "Version": "3.10 -> 3.11",
+            "Date": "09/Marzo/2021"
+        },
+        {
+            "Plugin": "WP Smart Preloader",
+            "Version": "1.12 -> 1.13",
+            "Date": "08/Marzo/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.9 -> 4.0.10",
+            "Date": "08/Marzo/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "15.9 -> 15.9.1",
+            "Date": "06/Marzo/2021"
+        },
+        {
+            "Plugin": "WP Popups Lite",
+            "Version": "2.1.3.1 -> 2.1.3.3",
+            "Date": "03/Marzo/2021"
+        },
+        {
+            "Plugin": "Redirection for Contact Form 7",
+            "Version": "2.3.4 -> 2.3.5",
+            "Date": "03/Marzo/2021"
+        },
+        {
+            "Plugin": "WebP Converter for Media",
+            "Version": "2.3.0 -> 2.4.0",
+            "Date": "01/Marzo/2021"
+        },
+        {
+            "Plugin": "Contact Form 7",
+            "Version": "5.3.2 -> 5.4",
+            "Date": "24/Febbraio/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "15.8 -> 15.9",
+            "Date": "23/Febbraio/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.8 -> 4.0.9",
+            "Date": "22/Febbraio/2021"
+        },
+        {
+            "Plugin": "EWWW Image Optimizer",
+            "Version": "6.0.1 -> 6.0.3",
+            "Date": "19/Febbraio/2021"
+        },
+        {
+            "Plugin": "Cookie Notice & Compliance for GDPR/CCPA",
+            "Version": "2.0.2 2.0.3",
+            "Date": "19/Febbraio/2021\""
+        },
+        {
+            "Plugin": "WP File Manager",
+            "Version": "7.0 -> 7.1",
+            "Date": "18/Febbraio/2021"
+        },
+        {
+            "Plugin": "WP Popups Lite",
+            "Version": "2.1.3 -> 2.1.3.1",
+            "Date": "14/Febbraio/2021"
+        },
+        {
+            "Plugin": "Redirection for Contact Form 7",
+            "Version": "2.3.3 -> 2.3.4",
+            "Date": "14/Febbraio/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Version": "15.7 -> 15.8",
+            "Date": "11/Febbraio/2021"
+        },
+        {
+            "Plugin": "WP File Manager",
+            "Version": "6.9 -> 7.0",
+            "Date": "08/Febbraio/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.7 -> 4.0.8",
+            "Date": "08/Febbraio/2021"
+        },
+        {
+            "Plugin": "ManageWP - Worker",
+            "Version": "4.9.7 -> 4.9.8",
+            "Date": "08/Febbraio/2021"
+        },
+        {
+            "Plugin": "Disable Comments",
+            "Version": "2.0.2 -> 2.1.0",
+            "Date": "08/Febbraio/2021"
+        },
+        {
+            "Plugin": "WebP Converter for Media",
+            "Version": "2.2.0 -> 2.3.0",
+            "Date": "07/Febbraio/2021"
+        },
+        {
+            "Plugin": "Cookie Notice & Compliance for GDPR/CCPA",
+            "Version": "2.0.1 -> 2.0.2",
+            "Date": "07/Febbraio/2021"
+        },
+        {
+            "Plugin": "Bookly",
+            "Version": "19.3 -> 19.4",
+            "Date": "07/Febbraio/2021"
+        },
+        {
+            "Plugin": "WP Popups Lite",
+            "Version": "2.1.2 -> 2.1.3",
+            "Date": "05/Febbraio/2021"
+        },
+        {
+            "Plugin": "WP Migrate DB",
+            "Version": "1.0.16 -> 1.0.17",
+            "Date": "05/Febbraio/2021"
+        },
+        {
+            "Plugin": "Cookie Notice",
+            "Version": "1.3.2 -> 2.0.1",
+            "Date": "05/Febbraio/2021"
+        },
+        {
+            "Plugin": "EWWW Image Optimizer",
+            "Version": "6.0.0 -> 6.0.1",
+            "Date": "29/Gennaio/2021"
+        },
+        {
+            "Plugin": "Bookly",
+            "Version": "19.2 -> 19.3",
+            "Date": "29/Gennaio/2021"
+        },
+        {
+            "Plugin": "Yoast Duplicate Post",
+            "Version": "4.1 -> 4.1.1",
+            "Date": "27/Gennaio/2021"
+        },
+        {
+            "Plugin": "Yoast Duplicate Post",
+            "Version": "4.0.2 -> 4.1",
+            "Date": "27/Gennaio/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.6 -> 4.0.7",
+            "Date": "26/Gennaio/2021"
+        },
+        {
+            "Plugin": "Redirection for Contact Form 7",
+            "Version": "2.3.2 -> 2.3.3",
+            "Date": "19/Gennaio/2021"
+        },
+        {
+            "Plugin": "Yoast Duplicate Post",
+            "Version": "4.0.1 -> 4.0.2",
+            "Date": "14/Gennaio/2021"
+        },
+        {
+            "Plugin": "Yoast Duplicate Post",
+            "Version": "3.2.6 -> 4.0.1",
+            "Date": "13/Gennaio/2021"
+        },
+        {
+            "Plugin": "WP Hide & Security Enhancer",
+            "Version": "1.6.2.0.4 -> 1.6.2.4",
+            "Date": "13/Gennaio/2021"
+        },
+        {
+            "Plugin": "Redirection for Contact Form 7",
+            "Version": "2.3.1 -> 2.3.2",
+            "Date": "13/Gennaio/2021"
+        },
+        {
+            "Plugin": "Really Simple SSL",
+            "Version": "4.0.5 -> 4.0.6",
+            "Date": "13/Gennaio/2021"
+        },
+        {
+            "Plugin": "WP Fastest Cache",
+            "Version": "0.9.1.3 -> 0.9.1.4",
+            "Date": "06/Gennaio/2021"
+        },
+        {
+            "Plugin": "Bookly",
+            "Version": "19.1 -> 19.2",
+            "Date": "04/Gennaio/2021"
+        },
+        {
+            "Plugin": "WP Popups Lite",
+            "Version": "2.1.1 -> 2.1.2",
+            "Date": "03/Gennaio/2021"
+        },
+        {
+            "Plugin": "Redirection for Contact Form 7",
+            "Version": "2.3.0 -> 2.3.1",
+            "Date": "03/Gennaio/2021"
+        },
+        {
+            "Plugin": "Contact Form 7",
+            "Version": "5.3.1 -> 5.3.2",
+            "Date": "03/Gennaio/2021"
+        },
+        {
+            "Plugin": "Bookly",
+            "Version": "18.3 -> 19.1",
+            "Date": "03/Gennaio/2021"
+        }
+    ]
+}
