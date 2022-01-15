@@ -17,7 +17,7 @@ footer: © 2012 - 2022 HRS Consulting Group. All rights reserved.
       </p>
       <p align="center">
         <LogoutButton class="btn btn-danger mr-2" type="button" :client="auth0client" />
-        <DashboardButton type="button" />
+        <DashboardButton class="btn btn-outline mr-2" type="button" />
       </p>
     </div>
     <div v-else>
