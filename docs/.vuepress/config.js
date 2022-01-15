@@ -66,7 +66,7 @@ module.exports = {
      /*        { text: "Dettagli", link: '/technicaldetails/' },
             { text: "Style Guide", link: '/styleguide/' }, */
             { text: "Contatti", link: '/contactus/' },
-            { text: "Esci", link: 'https://dev-zl1ksw63.eu.auth0.com/v2/logout?returnTo=https://docs.energtech.hrslab.com/', target: '_self', rel: false },
+            { text: "Esci", link: 'https://dev-zl1ksw63.eu.auth0.com/v2/logout?returnTo=https://ilborgodidante.hrslab.com', target: '_self', rel: false },
         ],
     },
     markdown: {
