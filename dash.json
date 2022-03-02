@@ -1,19 +1,19 @@
 {
-	"databaseOverhead": "n/a",
-	"postRevision": "n/a",
-	"spamComments": "n/a",
-	"pageSpeedScore": "n/a",
+	"databaseOverhead": "0KB",
+	"postRevision": "00",
+	"spamComments": "0'",
+	"pageSpeedScore": "0",
 	"previous": [
-		"Previous: N/A",
-		"Previous: N/A"
+		"Previous: B (87%)",
+		"Previous: B (87%)"
 	],
-	"slowScore": "n/a",
-	"lasReport": "n/a",
+	"slowScore": "0",
+	"lasReport": "09-February-2022,\n                    18:33:18",
 	"serverRegion": "Test server region: London, UK",
-	"responseTime": "n/a",
-	"downtimeTime": "n/a",
-	"treathTotal": "n/a",
+	"upTime": "100%",
+	"responseTime": "0s",
+	"downtimeTime": "0",
+	"treathTotal": "0",
 	"treathCountry": "n/a",
-	"treathType": "n/a",
-	"upTime": "n/a",
+	"treathType": "n/a"
 }
