@@ -14,5 +14,7 @@
 	"downtimeText": "Downtime (n/a)",
 	"treathTotal": "n/a",
 	"treathCountry": "n/a",
-	"treathType": "n/a"
+	"treathType": "n/a",
+	"pageSize": "n/a",
+	"previouspageSize": "n/a"
 }
