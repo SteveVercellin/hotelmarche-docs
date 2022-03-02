@@ -15,6 +15,10 @@
 	"treathTotal": "n/a",
 	"treathCountry": "n/a",
 	"treathType": "n/a",
+	"pageLoad": "n/a",
+	"previouspageLoad": "n/a",
 	"pageSize": "n/a",
-	"previouspageSize": "n/a"
+	"previouspageSize": "n/a",
+	"requests": "n/a",
+	"previousRequests": "n/a"
 }
