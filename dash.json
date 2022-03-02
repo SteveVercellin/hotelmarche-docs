@@ -15,5 +15,11 @@
 	"downtimeTime": "0",
 	"treathTotal": "0",
 	"treathCountry": "n/a",
-	"treathType": "n/a"
+	"treathType": "n/a",
+	"pageLoad": "0",
+	"previouspageLoad": "0",
+	"pageSize": "0",
+	"previouspageSize": "0",
+	"requests": "0",
+	"previousRequests": "0"
 }
