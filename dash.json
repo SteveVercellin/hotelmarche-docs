@@ -2,18 +2,18 @@
 	"databaseOverhead": "N/A",
 	"postRevision": "N/A",
 	"spamComments": "N/A",
-	"pageSpeedScore": "N/A",
+	"pageSpeedScore": "n/a",
 	"previous": [
 		"Previous: N/A",
 		"Previous: N/A"
 	],
-	"slowScore": "N/A",
+	"slowScore": "n/a",
 	"lasReport": "09-February-2022,\n                    18:33:18",
 	"serverRegion": "Test server region: London, UK",
 	"responseTime": "\n                        ",
 	"downtimeTime": "\n                        ",
-	"treathTotal": "14,01k",
-	"treathCountry": "DE",
-	"treathType": "Browser non valido",
+	"treathTotal": "0",
+	"treathCountry": "n/a",
+	"treathType": "n/a",
 	"upTime": "\n                        "
 }
