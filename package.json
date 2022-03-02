@@ -45,7 +45,7 @@
         "webpack-cli": "^3.3.11"
     },
     "dependencies": {
-        "axios": "0.21.1",
+        "axios": "0.21.2",
         "vuepress-plugin-chart": "0.1.8",
         "web-vitals": "1.1.2"
     }
