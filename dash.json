@@ -1,19 +1,19 @@
 {
-	"databaseOverhead": "0KB",
-	"postRevision": "0",
-	"spamComments": "0",
+	"databaseOverhead": "n/a",
+	"postRevision": "n/a",
+	"spamComments": "n/a",
 	"pageSpeedScore": "0",
 	"previous": [
 		"Previous: B (87%)",
 		"Previous: B (87%)"
 	],
-	"slowScore": "0",
+	"slowScore": "n/a",
 	"lasReport": "n/a",
 	"serverRegion": "Test server region: London, UK",
 	"upTime": "100%",
-	"responseTime": "0s",
+	"responseTime": "n/a",
 	"downtimeTime": "0",
-	"treathTotal": "0",
+	"treathTotal": "n/a",
 	"treathCountry": "n/a",
 	"treathType": "n/a",
 	"pageLoad": "0",
@@ -21,5 +21,10 @@
 	"pageSize": "0",
 	"previouspageSize": "0",
 	"requests": "0",
-	"previousRequests": "0"
+	"previousRequests": "0",
+	"pageSpeed": "n/a",
+	"previouspageSpeed": "Previous: n/a",
+	"previousslowScore": "Previous: n/a",
+	"downTime": "n/a",
+	"downtimeText": "Downtime (n/a)"
 }
