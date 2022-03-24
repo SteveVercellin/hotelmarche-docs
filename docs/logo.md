@@ -57,25 +57,27 @@ Anche se sconsigliato, il logo può essere utilizzato, in particolari occasioni,
 ##  Minimum clear space  and Minimum size
 
 ### Minimum clear space
-The minimum clear space around the signature is equal to one-half the height of the Apple logo, measured from the top of the leaf to the lower edge. To create the greatest impact, allow even more space around your signature. Do not allow photos, typography, or other graphic elements to enter the minimum clear space area.
+
+Lo spazio negativo minimo è pari alla metà dell'altezza del logo, misurata dal bordo superiore al bordo inferiore.
+
+Per creare il massimo impatto, lascia ancora più spazio intorno al logo. Non consentire a foto, tipografia o altri elementi grafici di entrare nell'area dello spazio negativo.
 
 ###  Minimum size
-The minimum signature size should be used only when layout space is extremely limited. Use the signature at a larger size whenever possible. Make sure the Apple channel signature is smaller than your store or company identity.
+
+La dimensione minima del logo dovrebbe essere utilizzata solo quando lo spazio del layout è estremamente limitato. Usare una dimensione maggiore quando possibile.
 
 <div class="p-2 my-3">
 <img class="img-responsive" height="100px" src="images/logo_minimum_size.png" />
 </div>
 
-
 ## Avoid
-
 ### Low Opacity
 
 <div class="p-2 my-3 Box color-shadow-medium text-center">
 <img class="img-responsive grayscale" style="opacity:.25;" width="60%" src="images/logo_ilborgodamare_all_black.png" />
 </div>
 
-The logo can be displayed only in all-black or all-white.  Never display the logo in gray or with low opacity.
+Il logo può essere visualizzato solo in all-black o all-white. Non visualizzare mai il logo in grigio o con bassa opacità.
 
 ### Patterned or Image Background
 
@@ -93,4 +95,36 @@ style="background-image: url(./images/bg_messy_animals.png);"  />
 </div>
 Evitare di ultilizzare il logo su sfondi con pattern o con immagini di sfondo. Utilizzare sempre uno sfondo a tinta unita.
 </div>
+</div>
+
+## Download
+
+<div class="Box my-6">
+  <div class="Box-row d-flex flex-items-center">
+    <div class="flex-auto">
+      <strong>Row title</strong>
+      <div class="text-small color-fg-subtle">
+        Description
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary" name="button">View</button>
+  </div>
+  <div class="Box-row d-flex flex-items-center">
+    <div class="flex-auto">
+      <strong>Row title</strong>
+      <div class="text-small color-fg-subtle">
+        Description
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary" name="button">View</button>
+  </div>
+  <div class="Box-row d-flex flex-items-center">
+    <div class="flex-auto">
+      <strong>Row title</strong>
+      <div class="text-small color-fg-subtle">
+        Description
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary" name="button">View</button>
+  </div>
 </div>
