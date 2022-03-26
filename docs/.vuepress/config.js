@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Il Borgo di Dante Sul Mare",
+    title: "Il Borgo da... Mare",
     head: [
         ['link', { rel: 'stylesheet', href: 'https://unpkg.com/@primer/css@^16.0.0/dist/primer.css' }],
         ["script", { src: "https://cdn.auth0.com/js/auth0-spa-js/1.13/auth0-spa-js.production.js" }]
@@ -58,6 +58,10 @@ module.exports = {
             {
                 text: 'Project',
                 link: '/main/',
+            },
+            {
+                text: 'Logo',
+                link: '/logo/',
             },
             {
                 text: "Manutenzione",
