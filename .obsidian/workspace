@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "6623d1ba39708ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "533a2ca9702da1c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/projectsummary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c346f724da66d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "016bb8dc155e7eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e4b0f16e4e52a9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b37c8d4698aff3a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b7b1c15b95e8279",
+    "type": "split",
+    "children": [
+      {
+        "id": "885a8b0ea1ddefdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b905133e333cda05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/projectsummary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "533a2ca9702da1c9",
+  "lastOpenFiles": [
+    "docs/projectsummary.md",
+    "docs/maintenance.md",
+    "docs/main.md",
+    "docs/index.md",
+    "docs/contract.md",
+    "docs/changes.md",
+    "node_modules/@ampproject/remapping/README.md",
+    "README.md"
+  ]
+}

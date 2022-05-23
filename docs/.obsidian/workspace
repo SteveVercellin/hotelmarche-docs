@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "c586d6f6287606bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "70b7b8ddea942152",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "changes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e917ae8defe675f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0533df524666587d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e41398a5347672",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5203290bf30e322",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50f43952ea337bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "49cab4a4ce4d31f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3793f75836811e14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "changes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "70b7b8ddea942152",
+  "lastOpenFiles": [
+    "changes.md",
+    "Developers/NginxConfig.md",
+    "Developers/js.md",
+    "logo.md",
+    "Specs.md",
+    "gantt.md",
+    "dashboard.md"
+  ]
+}

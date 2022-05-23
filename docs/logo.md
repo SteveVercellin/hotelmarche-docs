@@ -115,49 +115,32 @@ Evitare di ultilizzare il logo su sfondi con pattern o con immagini di sfondo. U
 
 ## Download
 
-<BlankSlate>
-
-<h2>Content Not Available</h2>
-<p>files dowloads will be available upon project completition</p>
-
-</BlankSlate>
-
-
-<div class="Box my-6 hide">
+<div class="Box my-6">
   <div class="Box-row d-flex flex-items-center">
     <div class="flex-auto">
-      <strong>Logo All-Black PNG</strong>
+      <strong>Logo Nero</strong>
       <div class="text-small color-fg-subtle">
-        Description
+        Logo nero su sfondo trasparente in formato .png
       </div>
     </div>
-    <button type="button" class="btn btn-primary" name="button">Download</button>
+    <a  type="button" class="btn btn-primary no-underline" href="images\logo_borgodamare_all_black.png"target="_blank"  name="button">Download</a>
   </div>
   <div class="Box-row d-flex flex-items-center">
     <div class="flex-auto">
-      <strong>Logo All-White PNG</strong>
+      <strong>Logo Bianco</strong>
       <div class="text-small color-fg-subtle">
-        Description
+        Logo bianco su sfondo trasparente in formato .png
       </div>
     </div>
-    <button type="button" class="btn btn-primary" name="button">Download</button>
+    <a type="button" class="btn btn-primary no-underline" href="images/logo_ilborgodamare_allwhite.png" target="_blank" name="button">Download</a>
   </div>
   <div class="Box-row d-flex flex-items-center">
     <div class="flex-auto">
-      <strong>Logo All-Black SVG</strong>
+      <strong>Logo Vettoriale</strong>
       <div class="text-small color-fg-subtle">
-        Description
+        Logo Nero in formato .svg
       </div>
     </div>
-    <button type="button" class="btn btn-primary" name="button">Download</button>
-  </div>
-  <div class="Box-row d-flex flex-items-center">
-    <div class="flex-auto">
-      <strong>Logo All-White SVG</strong>
-      <div class="text-small color-fg-subtle">
-        Description
-      </div>
-    </div>
-    <button type="button" class="btn btn-primary" name="button">Download</button>
+    <a type="button" class="btn btn-primary no-underline" href="images\logo_borgodamare_all_black.svg" target="_blank" name="button">Download</a>
   </div>
 </div>
